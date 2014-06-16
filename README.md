@@ -1,0 +1,4 @@
+trustConnection
+===============
+
+python-django
